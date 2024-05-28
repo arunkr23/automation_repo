@@ -9,7 +9,6 @@ public class reverse_String {
         System.out.println(reverse);
 
         //Method 2
-
         String reverse_1 = "";
         for (int i=reverse.length()-1;i>=0;i--)
         {
